@@ -103,3 +103,11 @@ The "environment" table stores global variables that are accessible to the VM. T
 
 
 ]]--
+
+local L = {top = 0};
+local base = 0;
+
+function vm_reg(L, base, i) --// Get the value of a register
+	assert(i >= 1 and i <= (L.top - base), "invalid register") --// Assert that the register is valid
+	return base[i] --// Return the value of the register
+end
