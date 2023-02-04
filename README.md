@@ -1,4 +1,5 @@
-# LuaStuff
- Just a bunch of lua projects, I've worked on for awhile.
+<h1 align="center">Lua Stuff</h1>
 
-I've only added VmConcept.lua, but more will be added soon.
+- Concepts
+  - Vm Concept
+  - OOP Concept
