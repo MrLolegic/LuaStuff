@@ -23,7 +23,7 @@ function Cost(theta, x, y)
   local sum = 0
 
   for i = 1, m do
-    local error = h(theta, x[i]) - y[i]
+    local error = Hypo(theta, x[i]) - y[i]
     sum = sum + error ^ 2
   end
 
@@ -48,7 +48,7 @@ function gradientDescent(theta, x, y, alpha, num_iters)
     local delta = {0, 0}
 
     for j = 1, m do
-      local error = h(theta, x[j]) - y[j]
+      local error = Hypo(theta, x[j]) - y[j]
       delta[1] = delta[1] + error
       delta[2] = delta[2] + error * x[j]
     end
