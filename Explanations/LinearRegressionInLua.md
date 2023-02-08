@@ -85,3 +85,10 @@ end
 
 run() --// Make sure you have all of the 
 ```
+
+Made by: Mr Lolegic#0773
+
+References: 
+https://www.analyticsvidhya.com/blog/2021/05/all-you-need-to-know-about-your-first-machine-learning-model-linear-regression/
+https://www.geeksforgeeks.org/ml-linear-regression/
+https://machinelearningmastery.com/linear-regression-for-machine-learning/
