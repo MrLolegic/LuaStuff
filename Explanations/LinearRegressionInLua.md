@@ -65,7 +65,7 @@ The `gradientDescent` function performs gradient descent optimization to find th
 
 Gradient descent is a optimization algorithm that starts with an initial guess for the parameters `theta`, and iteratively updates the values of `theta` in the direction of the negative gradient of the cost function `Cost`. The gradient of `Cost` with respect to theta gives us the direction in which we should change theta to minimize the cost function.
 
-The `gradientDescent` function implements this gradient descent optimization algorithm. It starts by initializing a delta vector with all elements set to 0. Then, for each training example `j`, it calculates the error error between the predicted output `h(theta, x[j])` and the actual output `y[j]`, and updates the elements of the delta vector by adding the error and the error times the feature value `x[j]`. Finally, it updates the values of theta by subtracting `alpha / m * delta[1]` from `theta[1]` and `alpha / m * delta[2]` from `theta[2]`, where `alpha` is the learning rate and `m` is the number of training examples.
+The `gradientDescent` function implements this gradient descent optimization algorithm. It starts by initializing a delta vector with all elements set to 0. Then, for each training example `j`, it calculates the error between the predicted output `h(theta, x[j])` and the actual output `y[j]`, and updates the elements of the delta vector by adding the error and the error times the feature value `x[j]`. Finally, it updates the values of theta by subtracting `alpha / m * delta[1]` from `theta[1]` and `alpha / m * delta[2]` from `theta[2]`, where `alpha` is the learning rate and `m` is the number of training examples.
 
 This process is repeated `num_iters` times, until the values of `theta` converge to a minimum of the cost function. The final values of `theta` are returned by the `gradientDescent` function.
 
@@ -83,7 +83,7 @@ function run()
   print(string.format("theta0 = %f, theta1 = %f", theta[1], theta[2]))
 end
 
-run() --// Make sure you have all of the 
+run() --// Make sure you have all of the code in one file, before running.
 ```
 
 Made by: Mr Lolegic#0773
