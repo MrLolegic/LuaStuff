@@ -31,7 +31,7 @@ function Cost(theta, x, y)
 end
 ```
 
-Now, lets moe on to the `Cost` function in linear regression. It takes in three parameters `theta`, `x`, and `y`. `Theta` is the same vector of parameters that we saw in the `Hypothesis` function, `x` is the feature values, and `y` is the corresponding output values of the training data.
+Now, lets move on to the `Cost` function in linear regression. It takes in three parameters `theta`, `x`, and `y`. `Theta` is the same vector of parameters that we saw in the `Hypothesis` function, `x` is the feature values, and `y` is the corresponding output values of the training data.
 
 The cost function measures how well the hypothesis fits the training data. I linear regression, the commonly used cost function is the mean squared error (MSE) between the predicted output and the actual output.
 
