@@ -3,3 +3,6 @@
 - Concepts
   - Vm Concept
   - OOP Concept
+- Explanations
+  - Lua Vm
+  - Linear Regression
