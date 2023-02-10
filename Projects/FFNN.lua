@@ -37,16 +37,16 @@ weights[3][2] = math.random()
 
 --// Define the forward pass
 function forward(inputs)
-	hidden[1] = {}
+    hidden[1] = {}
     hidden[1][1] = sigmoid(inputs[1] * weights[1][1] + inputs[2] * weights[1][2])
     hidden[1][2] = sigmoid(inputs[1] * weights[1][1] + inputs[2] * weights[1][2])
     hidden[2] = {}
     hidden[2][1] = sigmoid(hidden[1][1] * weights[2][1][1] + hidden[1][2] * weights[2][1][2])
     hidden[2][2] = sigmoid(hidden[1][1] * weights[2][2][1] + hidden[1][2] * weights[2][2][2])
 
-	local output = sigmoid(hidden[2][1] * weights[3][1] + hidden[2][2] * weights[3][2])
+    local output = sigmoid(hidden[2][1] * weights[3][1] + hidden[2][2] * weights[3][2])
 
-	return output
+    return output
 end
 
 --// Define the loss function
