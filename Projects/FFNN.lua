@@ -1,5 +1,6 @@
 --// Made by Mr. Lolegic
 --// Simple feed-forward neural network in pure lua
+--// I didn't want to make a tutorial like I did for Linear Regression, because no one really liked it.
 
 --// Define the activation function
 function sigmoid(x)
