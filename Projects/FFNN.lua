@@ -106,3 +106,16 @@ end
 prediction = forward(inputs)
 
 print("Prediction: " .. prediction)
+
+--[[
+
+So, FFNN stands for Feedforward Neural Network. Basically, it's a type of artificial intelligence model that helps compters to make decisions based on data inputs.
+
+Think of it like this, imagine you have a best friend who's really good at making decisions, like what to eat for dinner or what movie to watch. They make these decisions by weighing the options and using their own past experiences to come up with a solution. That's kind of like what an FFNN does, but instead of using a friend's experiences, it uses data to make decisions.
+
+For example, let's say you have a pet dog and you want to create an FFNN to help you predict when your dog is going to be hungry. The FFNN would be trained on data inputs, like what time your dog usually eats, how much food they eat, and how active they are. Then, based on that information, the FFNN could predict when your dog is going to be hungry next.
+
+Another example would be using an FFNN to predct the next big fashion trend. The FFNN would be trained on data inputs like past fashion trends, current styles, and social media activity. Then, based on that information, the FFNN could predict what the next big fashion trend will be.
+
+]]--
+
