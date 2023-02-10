@@ -109,6 +109,8 @@ print("Prediction: " .. prediction)
 
 --[[
 
+	--// Simple Explanation of how an FFNN works. \\--
+
 So, FFNN stands for Feedforward Neural Network. Basically, it's a type of artificial intelligence model that helps compters to make decisions based on data inputs.
 
 Think of it like this, imagine you have a best friend who's really good at making decisions, like what to eat for dinner or what movie to watch. They make these decisions by weighing the options and using their own past experiences to come up with a solution. That's kind of like what an FFNN does, but instead of using a friend's experiences, it uses data to make decisions.
