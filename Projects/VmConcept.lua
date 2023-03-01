@@ -2,7 +2,7 @@
 --// This is a concept for a virtual machine that I am working on \\--
 --// This is not a fully working virtual machine \\--
 --// This is just a concept \\--
---// whitespace
+
 ---// Virtual Machine Library \\---
 local vm = setmetatable( --// Set the metatable of the Virtual Machine Library
     { --// Virtual Machine Library
@@ -19,13 +19,14 @@ local vm = setmetatable( --// Set the metatable of the Virtual Machine Library
         __index = function(self, index) --// Get the index of the Virtual Machine Library
             if self[index] then --// If the index exists in the Virtual Machine Library
                 return self[index] --// Return the index
-            else --// If the index does not exist in the Virtual Machine Library
+            else
                 error("Index '" .. index .. "' does not exist in the Virtual Machine Library") --// Throw an error
-            end --// end if condition
-        end --// end function
-    } --// close table
-) --// parentheses 
-vm.program = { --// Program
+            end 
+        end
+    } 
+)
+
+vm.program = { --// Prgoram | Chunk
     [0] = { --// Instruction 1
         opcode = vm.opcodes[5], --// GETGLOBAL
         reg_a = 0, --// Load the global value into register A
@@ -47,15 +48,16 @@ vm.program = { --// Program
     [3] = { --// Instruction 4
         opcode = vm.opcodes[30], --// RETURN
         num_returns = 1 --// Return 1 value
-    } --// close table
-} --// close table
+    }
+} 
+
 local function pack(...) --// Pack the arguments into a table
     return { --// Return the table
         n = select("#", ...), --// Get the number of arguments
         ... --// Return the arguments
-    } --// close table
-end --// end function
---// whitespace
+    }
+end 
+
 function vm:interpret() --// Interpret the program
     local pc = 0 --// Program Counter
     local top = -1 --// Top of the stack
@@ -78,15 +80,16 @@ function vm:interpret() --// Interpret the program
                 num_ret = inst.num_returns - 1 --// Get the number of returns
             else --// If the number of returns is not greater than 0
                 top = inst.reg_a + num_ret - 1 --// Set the top of the stack
-            end --// end
+            end
         elseif inst.opcode == "RETURN" then --// If op RETURN
             return unpack(stack, 1, inst.num_returns) --// Return the values on the stack
-        end --// end if
-    end --// end while
-end --// end func
---// whitespace
+        end 
+    end 
+end 
+
 vm:interpret() --// Interpret the program
---// whitespace
+
+
 --[[
 
 --// Simple explanation on how the vm actually works \\--
