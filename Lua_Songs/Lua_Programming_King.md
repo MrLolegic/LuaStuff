@@ -13,7 +13,7 @@ My hope is that "Lua, The Programming King" inspires people to learn Lua and uti
 
 ---
 
-<div align="center">
+<div align="left">
 
 Listen up, it's time to learn about Lua</br>
 A language that's gonna get you through</br>
