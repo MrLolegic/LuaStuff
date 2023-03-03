@@ -13,8 +13,6 @@ My hope is that "Lua, The Programming King" inspires people to learn Lua and uti
 
 ---
 
-<div align="center">
-
 Listen up, it's time to learn about Lua
 A language that's gonna get you through
 It's lightweight and fast, easy to use
@@ -164,8 +162,6 @@ So if you want to be a coding wizard
 Lua's the language to make you gizzard
 It's the language that's got it all
 Lua's the language that'll never fall!
-
-</div>
 
 </br></br>
 
