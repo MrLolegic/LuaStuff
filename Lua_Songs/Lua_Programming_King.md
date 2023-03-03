@@ -13,155 +13,158 @@ My hope is that "Lua, The Programming King" inspires people to learn Lua and uti
 
 ---
 
-Listen up, it's time to learn about Lua
-A language that's gonna get you through
-It's lightweight and fast, easy to use
-Making it perfect for your coding muse
+<div align="center">
 
-Lua, Lua, it's the language of the day
-From games to web apps, it's the only way
-With its coroutines and modules, you can do anything
-Lua, Lua, it's the programming king
+Listen up, it's time to learn about Lua</br>
+A language that's gonna get you through</br>
+It's lightweight and fast, easy to use</br>
+Making it perfect for your coding muse</br>
 
-You can embed it in other languages
-Making it versatile, no time to languish
-It's got a big community, always growing
-Lua's the language that's always flowing
+Lua, Lua, it's the language of the day</br>
+From games to web apps, it's the only way</br>
+With its coroutines and modules, you can do anything</br>
+Lua, Lua, it's the programming king</br>
 
-Lua, Lua, it's the language of the day
-From games to web apps, it's the only way
-With its coroutines and modules, you can do anything
-Lua, Lua, it's the programming king
+You can embed it in other languages</br>
+Making it versatile, no time to languish</br>
+It's got a big community, always growing</br>
+Lua's the language that's always flowing</br>
 
-Syntax so simple, it's easy to write
-Debugging is a breeze, no need to fight
-Tables, strings, and functions, it's all there
-Lua's the language that's fair and square
+Lua, Lua, it's the language of the day</br>
+From games to web apps, it's the only way</br>
+With its coroutines and modules, you can do anything</br>
+Lua, Lua, it's the programming king</br>
 
-Lua, Lua, it's the language of the day
-From games to web apps, it's the only way
-With its coroutines and modules, you can do anything
-Lua, Lua, it's the programming king
+Syntax so simple, it's easy to write</br>
+Debugging is a breeze, no need to fight</br>
+Tables, strings, and functions, it's all there</br>
+Lua's the language that's fair and square</br>
 
-Performance is great, it's lightning fast
-Making it perfect for games that last
-But it's not just for gaming, oh no
-Web development is where it can glow
+Lua, Lua, it's the language of the day</br>
+From games to web apps, it's the only way</br>
+With its coroutines and modules, you can do anything</br>
+Lua, Lua, it's the programming king</br>
 
-Lua, Lua, it's the language of the day 
-From games to web apps, it's the only way 
-With its coroutines and modules, you can do anything 
-Lua, Lua, it's the programming king
+Performance is great, it's lightning fast</br>
+Making it perfect for games that last</br>
+But it's not just for gaming, oh no</br>
+Web development is where it can glow</br>
 
-So if you're looking for a language that's sweet
-Look no further, Lua can't be beat
-It's the tool that's gonna make you shine
-Lua's the one that's always on time
+Lua, Lua, it's the language of the day </br>
+From games to web apps, it's the only way </br>
+With its coroutines and modules, you can do anything </br>
+Lua, Lua, it's the programming king</br>
 
-Lua, Lua, it's the language of the day 
-From games to web apps, it's the only way 
-With its coroutines and modules, you can do anything 
-Lua, Lua, it's the programming king
+So if you're looking for a language that's sweet</br>
+Look no further, Lua can't be beat</br>
+It's the tool that's gonna make you shine</br>
+Lua's the one that's always on time</br>
 
-Lua's memory footprint is small
-But its capabilities are anything but dull
-It's the language for embedded systems too
-With LuaJIT, you'll never feel blue
+Lua, Lua, it's the language of the day </br>
+From games to web apps, it's the only way </br>
+With its coroutines and modules, you can do anything</br> 
+Lua, Lua, it's the programming king</br>
 
-Lua, Lua, it's the language of the day 
-From games to web apps, it's the only way 
-With its coroutines and modules, you can do anything 
-Lua, Lua, it's the programming king
+Lua's memory footprint is small</br>
+But its capabilities are anything but dull</br>
+It's the language for embedded systems too</br>
+With LuaJIT, you'll never feel blue</br>
 
-Lua's community is friendly and kind
-If you need help, they won't leave you behind
-LuaRocks makes package management a breeze
-With Lua, coding is sure to please
+Lua, Lua, it's the language of the day </br>
+From games to web apps, it's the only way </br>
+With its coroutines and modules, you can do anything </br>
+Lua, Lua, it's the programming king</br>
 
-Lua, Lua, it's the language of the day 
-From games to web apps, it's the only way 
-With its coroutines and modules, you can do anything 
-Lua, Lua, it's the programming king
+Lua's community is friendly and kind</br>
+If you need help, they won't leave you behind</br>
+LuaRocks makes package management a breeze</br>
+With Lua, coding is sure to please</br>
 
-Lua's design is elegant and clean 
-Its simplicity makes it a programming dream 
-It's a language that's stood the test of time 
-With Lua, your code will always shine
+Lua, Lua, it's the language of the day </br>
+From games to web apps, it's the only way </br>
+With its coroutines and modules, you can do anything </br>
+Lua, Lua, it's the programming king</br>
 
-Lua's runtime is small and fast 
-With performance that'll make your code last 
-It's the language for IoT devices 
-And Lua's syntax is so concise
+Lua's design is elegant and clean </br>
+Its simplicity makes it a programming dream </br>
+It's a language that's stood the test of time</br> 
+With Lua, your code will always shine</br>
 
-Lua's coroutines are lightweight threads 
-A feature that'll blow your mind instead 
-Its asynchronous I/O is a boon for sure 
-Lua's flexibility is the key allure
+Lua's runtime is small and fast </br>
+With performance that'll make your code last </br>
+It's the language for IoT devices </br>
+And Lua's syntax is so concise</br>
 
-Lua, Lua, it's the language of the day 
-From games to web apps, it's the only way 
-With its coroutines and modules, you can do anything 
-Lua, Lua, it's the programming king
+Lua's coroutines are lightweight threads </br>
+A feature that'll blow your mind instead </br>
+Its asynchronous I/O is a boon for sure </br>
+Lua's flexibility is the key allure</br>
 
-Lua's metatables are a powerful tool 
-They make your code look oh-so-cool 
-Its object-oriented features are quite neat 
-With Lua, programming is a real treat
+Lua, Lua, it's the language of the day </br>
+From games to web apps, it's the only way </br>
+With its coroutines and modules, you can do anything</br> 
+Lua, Lua, it's the programming king</br>
 
-Lua's source code is open for all
-To see and learn, it's quite a haul 
-With contributions from the community at large
-Lua's future is brighter than a barge
+Lua's metatables are a powerful tool </br>
+They make your code look oh-so-cool </br>
+Its object-oriented features are quite neat</br> 
+With Lua, programming is a real treat</br>
 
-Lua's ecosystem is rich and diverse 
-With libraries for every purpose 
-There's love for Lua in the tech world too 
-Its community is always there for you
+Lua's source code is open for all</br>
+To see and learn, it's quite a haul </br>
+With contributions from the community at large</br>
+Lua's future is brighter than a barge</br>
 
-Lua, Lua, it's the language of the day 
-From games to web apps, it's the only way 
-With its coroutines and modules, you can do anything 
-Lua, Lua, it's the programming king
+Lua's ecosystem is rich and diverse </br>
+With libraries for every purpose </br>
+There's love for Lua in the tech world too</br> 
+Its community is always there for you</br>
 
-Lua's open source, it's free to use
-Making it perfect for any excuse
-It's got great documentation, easy to read
-Lua's the language that you need
+Lua, Lua, it's the language of the day </br>
+From games to web apps, it's the only way </br>
+With its coroutines and modules, you can do anything </br>
+Lua, Lua, it's the programming king</br>
 
-Lua, Lua, it's the language of the day 
-From games to web apps, it's the only way 
-With its coroutines and modules, you can do anything 
-Lua, Lua, it's the programming king
+Lua's open source, it's free to use</br>
+Making it perfect for any excuse</br>
+It's got great documentation, easy to read</br>
+Lua's the language that you need</br>
 
-If you want to automate things
-Lua's perfect for scripting, it brings
-A simplicity that's hard to find
-Lua's the language that's one of a kind
+Lua, Lua, it's the language of the day </br>
+From games to web apps, it's the only way </br>
+With its coroutines and modules, you can do anything </br>
+Lua, Lua, it's the programming king</br>
 
-Lua, Lua, it's the language of the day 
-From games to web apps, it's the only way 
-With its coroutines and modules, you can do anything 
-Lua, Lua, it's the programming king
+If you want to automate things</br>
+Lua's perfect for scripting, it brings</br>
+A simplicity that's hard to find</br>
+Lua's the language that's one of a kind</br>
 
-Now it's time to say goodbye
-But Lua will never die
-It's the language that's here to stay
-Lua's the king in every way
+Lua, Lua, it's the language of the day </br>
+From games to web apps, it's the only way </br>
+With its coroutines and modules, you can do anything </br>
+Lua, Lua, it's the programming king</br>
 
-Lua, Lua, it's the language of the day 
-From games to web apps, it's the only way 
-With its coroutines and modules, you can do anything 
-Lua, Lua, it's the programming king
+Now it's time to say goodbye</br>
+But Lua will never die</br>
+It's the language that's here to stay</br>
+Lua's the king in every way</br>
 
-So let's give Lua a round of applause
-It's the language that never bores
-From coding games to web design
-Lua's the language that's divine
+Lua, Lua, it's the language of the day </br>
+From games to web apps, it's the only way </br>
+With its coroutines and modules, you can do anything </br>
+Lua, Lua, it's the programming king</br>
 
-So if you want to be a coding wizard
-Lua's the language to make you gizzard
-It's the language that's got it all
-Lua's the language that'll never fall!
+So let's give Lua a round of applause</br>
+It's the language that never bores</br>
+From coding games to web design</br>
+Lua's the language that's divine</br>
+
+So if you want to be a coding wizard</br>
+Lua's the language to make you gizzard</br>
+It's the language that's got it all</br>
+Lua's the language that'll never fall!</br>
+
 
 </br></br>
 
