@@ -4,7 +4,7 @@
 
 <h3 align="center">Introduction</h3>
 
-"Lua, The Programming King" is a rap song that I, an 18-year-old British Lua programmer, created to showcase the power and versatility of Lua. My aim was to create an educational and entertaining piece of music that explains the benefits of Lua in a fun and catchy way.
+"Flowing with Lua" is a rap song that I, an 18-year-old British Lua programmer, created to showcase the power and versatility of Lua. My aim was to create an educational and entertaining piece of music that explains the benefits of Lua in a fun and catchy way.
 
 The song consists of several verses and a chorus, each covering different aspects of Lua programming. The verses touch on the lightweight nature of Lua, its speed, ease of use, and various modules. The chorus ties everything together, emphasizing how Lua can be used in various applications like games and web development.
 
